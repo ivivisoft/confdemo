@@ -1,2 +1,2 @@
 example.property: "I AM THE DEFAULT"
-organization.url: "http://localhost:5555/api/organization/v1/organizations/{organizationId}"
+organization.url: "http://localhost:5555"
